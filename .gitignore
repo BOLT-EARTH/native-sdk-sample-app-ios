@@ -1,0 +1,11 @@
+# CocoaPods: run `pod install` after cloning.
+Pods/
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# macOS
+.DS_Store
